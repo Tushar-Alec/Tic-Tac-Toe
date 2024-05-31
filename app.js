@@ -1,4 +1,4 @@
 const Gameboard = function() {
- board = [];
+ gameboard = [];
  
 }
